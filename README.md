@@ -1,16 +1,20 @@
-## Hi there 👋
+## Bem-vindo ao meu GitHub! 👋
 
-<!--
-**airon-aona/airon-aona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar projetos que desenvolvi enquanto estudo, e alguns experimentos pessoais.
 
-Here are some ideas to get you started:
+## Sobre mim
+- Atualmente estudo Engenharia da Computação.
+- Interessado em programação Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que você vai emcontrar por aqui
+- Projetos em JS, PHP, MySQL, HTML e CSS.
+
+<!--## Habilidades-->
+
+## Contato
+
+LinkedIn: [Airon Aona](https://linkedin.com/in/airon-aona/)
+
+---
+
+> "A prática vence a teoria quando a teoria não pratica."
