@@ -5,6 +5,7 @@ Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar 
 ## Sobre mim
 - Atualmente estudo Engenharia da Computação.
 - Interessado em programação Web.
+- Procurando aprender novas tecnologias.
 
 ## O que você vai emcontrar por aqui
 - Projetos em JS, PHP, MySQL, HTML e CSS.
@@ -24,6 +25,5 @@ Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar 
 
 [![Airon Aona](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/airon-aona/)
 
----
-
+#
 > "A prática vence a teoria quando a teoria não pratica."
