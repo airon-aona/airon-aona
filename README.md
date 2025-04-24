@@ -23,6 +23,8 @@ Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airon-aona&hide_progress=true&theme=transparent&locale=pt-br)
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/airon-aona/)
