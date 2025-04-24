@@ -29,5 +29,7 @@ Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar 
 
 [![E-mail](https://img.shields.io/badge/instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/airon_aona/)
 
-#
+---
+<br>
+
 > "A prática vence a teoria quando a teoria não pratica."
