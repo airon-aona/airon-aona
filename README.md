@@ -9,10 +9,12 @@ Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar 
 
 ## O que você vai emcontrar por aqui
 - Projetos em JS, PHP, MySQL, HTML e CSS.
+- Alguns exercícios em Python.
 
 ## Habilidades
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
