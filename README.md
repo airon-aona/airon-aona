@@ -1,21 +1,31 @@
-## Bem-vindo ao meu GitHub! 👋
+## 👋 Welcome to my GitHub!
 
-Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar projetos que desenvolvi enquanto estudo, e alguns experimentos pessoais.
+Hi! My name is **Airon**, I'm a Computer Engineering student and IT support assistant.  
+Here you'll find projects I’ve developed during my studies, along with some personal experiments with technologies I'm learning.
 
-## Sobre mim
-- Atualmente estudo Engenharia da Computação.
-- Interessado em programação Web.
-- Procurando aprender novas tecnologias.
+---
 
-## O que você vai emcontrar por aqui
-- Projetos em JS, PHP, MySQL, HTML e CSS.
-- Alguns exercícios em Python.
+## 🧠 About Me
 
-## Habilidades
+- 🎓 Computer Engineering student  
+- 💻 Interested in web development and tech in general  
+- 🚀 Always looking to learn and experiment with new tools
+
+---
+
+## 💼 What You’ll Find Here
+
+- Projects using **JavaScript**, **PHP**, **MySQL**, **HTML**, and **CSS**  
+- Some exercises and scripts in **Python**  
+- Repositories with studies and personal projects
+
+---
+
+## ⚙️ Skills
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -23,17 +33,20 @@ Olá me chamo Airon, sou estudante e assistente de TI. Aqui você vai encontrar 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airon-aona&hide_progress=true&theme=transparent&locale=pt-br)
+---
 
-## Contato
+## 📊 Most Used Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/airon-aona/)
-
-[![E-mail](https://img.shields.io/badge/aona.airon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aona.airon@gmail.com)
-
-[![E-mail](https://img.shields.io/badge/instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/airon_aona/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airon-aona&hide_progress=true&theme=transparent&locale=en)
 
 ---
-<br>
 
-> "A prática vence a teoria quando a teoria não pratica."
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/airon-aona/)
+[![Gmail](https://img.shields.io/badge/aona.airon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aona.airon@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/airon_aona/)
+
+---
+
+> _"Practice beats theory when theory doesn't practice."_
