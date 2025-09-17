@@ -16,7 +16,7 @@ Here you'll find projects I’ve developed during my studies, along with some pe
 ## 💼 What You’ll Find Here
 
 - Projects using **JavaScript**, **PHP**, **MySQL**, **HTML**, and **CSS**  
-- Some exercises and scripts in **Python**  
+- Some exercises in the languages I'm learning  
 - Repositories with studies and personal projects
 
 ---
