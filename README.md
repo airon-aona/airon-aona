@@ -37,7 +37,7 @@ Here you'll find projects I’ve developed during my studies, along with some pe
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airon-aona&hide_progress=true&theme=transparent&locale=en)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=airon-aona&hide_progress=true&theme=transparent&locale=en)
 
 ---
 
