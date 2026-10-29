@@ -44,7 +44,6 @@ Here you'll find projects I’ve developed during my studies, along with some pe
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/airon-aona/)
-[![Gmail](https://img.shields.io/badge/aona.airon@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aona.airon@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/airon_aona/)
 
 ---
